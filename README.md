@@ -24,16 +24,18 @@ This project aims to predict the outcomes of football matches using machine lear
 - Matplotlib/Seaborn for visualization
 
 ## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/jainaastha22/Football_prediction.git
-2. Navigate to the project directory:
-   ```bash
-  cd Football_prediction
-3. Install the required packages:
-  ```bash
-  pip install -r requirements.txt
+To set up the project, clone the repository and navigate to the project directory, then install the required packages using the following commands:
+```bash
+git clone https://github.com/jainaastha22/Football_prediction.git && cd Football_prediction && pip install -r requirements.txt
+
 
 ## Usage
-- Open the Jupyter Notebook file (football_prediction.ipynb).
-- Follow the instructions within the notebook to load data, train models, and make predictions.
+To use the Football Match Prediction project, follow these steps:
+
+1. Open the Jupyter Notebook file (`football_prediction.ipynb`) in your preferred environment.
+2. Follow the instructions within the notebook to:
+   - Load the historical match data.
+   - Train the predictive models.
+   - Make predictions on upcoming matches.
+3. Visualize the results using the provided charts and graphs for better insights.
+
